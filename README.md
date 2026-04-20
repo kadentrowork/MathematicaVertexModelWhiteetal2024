@@ -1,5 +1,5 @@
 Contained in this repo is the mathematica code for the vertex model simulations in White et al 2024, "Wound-Induced Syncytia Outpace Mononucleate Neighbors during Drosophila Wound Repair"
-Explanations of the parameter choices and other aspects of the model are contained there.
+Explanations of the parameter choices and other aspects of the model are contained there. Developed by Kaden J Tro and M. Shane Hutson. 
 
 The main code is titled "syncytiacodefinal", which references two helper wolfram packages, "voronoiDiagramFunctions" and "voronoiDiagramGenerator (5)". 
 To run the code one can download syncytiacodefinal and voronoidiagram functions along with a premade wounded cell initialization (wound1,2,3,4),
@@ -12,3 +12,6 @@ The author recommends usage of other, better mantained and open-source code base
 such as tissue forge (https://www.nature.com/articles/s41598-023-45127-x). 
 
 Questions may be directed to kaden_tro@berkeley.edu
+
+How to site: 
+James S. White, Jasmine J. Su, Elizabeth M. Ruark, Junmin HuaM. Shane Hutson, Andrea Page-McCaw, 2024, Wound-Induced Syncytia Outpace Mononucleate Neighbors during Drosophila Wound Repair, eLife13:RP92593
