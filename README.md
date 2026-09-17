@@ -13,5 +13,4 @@ such as tissue forge (https://www.nature.com/articles/s41598-023-45127-x).
 
 Questions may be directed to kaden_tro@berkeley.edu
 
-How to site: 
-James S. White, Jasmine J. Su, Elizabeth M. Ruark, Junmin HuaM. Shane Hutson, Andrea Page-McCaw, 2024, Wound-Induced Syncytia Outpace Mononucleate Neighbors during Drosophila Wound Repair, eLife13:RP92593
+How to cite: James S. White, Junmin Hua, Jasmine J. Su, Kaden J Tro, Elizabeth M. Ruark, M. Shane Hutson, Andrea Page-McCaw (2026) “Wound-induced syncytia outpace mononucleate neighbors during Drosophila wound repair,” eLife 13:RP92593 DOI https://doi.org/10.7554/eLife.92593.4
